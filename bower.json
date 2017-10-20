@@ -1,0 +1,16 @@
+{
+  "name": "vcardjs",
+  "homepage": "https://github.com/veneliniliev/vCard",
+  "authors": [
+    "Venelin Iliev <venelin@provision.bg>"
+  ],
+  "description": "vCard javascript parser",
+  "main": "parser.js",
+  "keywords": [
+    "vcard",
+    "json",
+    "parser",
+    "javascript"
+  ],
+  "license": "MIT"
+}

@@ -1,4 +1,4 @@
-﻿var vCardParser = (function () {
+﻿window.vCardParser = (function () {
 
     var fieldPropertyMapping = {
         "TITLE": "title",
